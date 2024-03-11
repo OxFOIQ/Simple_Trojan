@@ -15,7 +15,7 @@ Customizable: Easily customizable to add additional functionalities or modify ex
 
 Clone the Repository:
 
-https://github.com/MedAmyyne/Simple_Trojan.git
+git clone https://github.com/MedAmyyne/Simple_Trojan.git
 
 ## python3 server.py
 ## go run main.go
